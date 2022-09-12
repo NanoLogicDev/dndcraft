@@ -1,0 +1,4 @@
+name: Dndcraft
+version: '1.0.0'
+main: dev.nanologic.dndcraft.Dndcraft
+api-version: 1.19
