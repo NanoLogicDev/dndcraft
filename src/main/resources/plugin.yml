@@ -2,3 +2,9 @@ name: Dndcraft
 version: '1.0.0'
 main: dev.nanologic.dndcraft.Dndcraft
 api-version: 1.19
+# Commands
+commands:
+  roll:
+    description: Roll Command
+    usage: /<command>
+    permission: dndcraft.command.roll
